@@ -1,4 +1,4 @@
-# CLI Calculator Java
+# Java CLI Calculator
 
 A simple and interactive calculator built with Java for the command line interface (CLI).  
 It supports basic arithmetic operations and a few advanced ones, with input validation and a clean loop-based structure.
