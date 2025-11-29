@@ -48,8 +48,8 @@ Invalid numeric input is handled gracefully with proper prompts.
 Clone the repository:
 
 ```bash
-git clone https://github.com/DevStrawberry/Java-Calculator-CLI.git
-cd Java-Calculator-CLI
+git clone https://github.com/matheushstrindade/java-cli-calculator.git
+cd java-cli-calculator
 ```
 
 Compile the program:
@@ -67,7 +67,7 @@ java Main
 
 ## 📦 Structure
 ```text
-Java-Calculator-CLI/
+java-cli-calculator/
 ├── Main.java
 └── README.md
 ```
